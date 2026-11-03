@@ -1,0 +1,16 @@
+{
+  "name": "HomeFit - 우리집 가구 배치",
+  "short_name": "HomeFit",
+  "description": "우리 집 평면에 가구·가전을 놓아 보는 배치 시뮬레이터",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b6cff",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
