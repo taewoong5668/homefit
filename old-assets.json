@@ -1,0 +1,13 @@
+{
+ "about": "새 버전을 올린 뒤에도 열려 있던 옛 화면이 받을 수 있게 남긴 옛 assets와 새 빌드에서 빠진 때(14일 남기고, 모두 100MB를 넘으면 오래된 것부터 지움 — scripts/webAssets.mjs)",
+ "files": {
+  "BenchView-D4893Jqu.js": "2026-11-17T18:04:56.980Z",
+  "CabinetMesh-DTRfPBzk.js": "2026-11-17T18:04:56.980Z",
+  "Door3D-D9QVcojP.js": "2026-11-17T18:04:56.980Z",
+  "Photoreal-BGeHZHUY.js": "2026-11-17T18:04:56.980Z",
+  "View3D-CgytR16J.js": "2026-11-17T18:04:56.980Z",
+  "index-Bz6huyFy.js": "2026-11-17T18:04:56.980Z",
+  "index-xP2ZBqJN.js": "2026-11-17T18:04:56.980Z",
+  "thumbShot-BQyxc3dz.js": "2026-11-17T18:04:56.980Z"
+ }
+}
